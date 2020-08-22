@@ -1,4 +1,4 @@
-![AzureFlow](Resources/AzureFlow.png)
+![AzureFlow](https://github.com/AzureFlow/AzureFlow/raw/master/Resources/AzureFlow.png)
 
 I'm Kevin and I like to tinker with things in unintended ways. My hobbies include:
 
